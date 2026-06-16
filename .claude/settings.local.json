@@ -15,7 +15,8 @@
       "Bash(command -v node npm npx)",
       "Bash(command -v cwebp sips)",
       "Bash(sips --help)",
-      "Bash(python3)"
+      "Bash(python3)",
+      "WebFetch(domain:achii-two.vercel.app)"
     ]
   }
 }
